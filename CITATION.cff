@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: "Knowledge Operations: A Capability Model for AI Systems"
+message: >-
+  If you reference this work, please cite the archival Zenodo deposit using
+  the DOI below. The Zenodo deposit links back to this living-document
+  repository.
+type: article
+authors:
+  - given-names: Gerasimos
+    family-names: Xydas
+    affiliation: "National and Kapodistrian University of Athens (PhD)"
+    orcid: "https://orcid.org/0009-0003-7817-5791"    
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20083456
+    description: "Concept DOI — always resolves to the latest archived version."
+url: "https://doi.org/10.5281/zenodo.20083456"
+repository-code: "https://github.com/gerasimos/knowledge-operations-kas"
+abstract: >-
+  Two AI systems can both be called "RAG" while performing fundamentally
+  different kinds of knowledge work; conversely, two systems can use different
+  substrates—vectors, SQL, graphs, or tools—while satisfying the same workload
+  requirement. This mismatch makes architecture-centered labels a poor guide to
+  capability. This paper proposes a capability model for knowledge-augmented AI
+  systems based on the knowledge operations they perform reliably, rather than
+  on the data formats, stores, or orchestration patterns they use. The model
+  profiles systems by knowledge operations (retrieve, scope, interpret,
+  combine, compute, traverse, orchestrate, govern, evaluate), introducing
+  seven operation archetypes (K0–K6), a governance scale (G0–G5), and an
+  evaluation discipline applied across every operation. The result is a
+  multi-dimensional capability profile rather than a single maturity level,
+  supporting evaluation per workload rather than per industry, vendor stack,
+  or architectural fashion.
+keywords:
+  - retrieval-augmented generation
+  - agentic RAG
+  - knowledge-augmented systems
+  - LLM agents
+  - capability model
+  - multi-hop reasoning
+  - knowledge graphs
+  - tool use
+  - LLM evaluation
+  - vendor evaluation
+  - cognitive search
+  - enterprise AI
+license: CC-BY-4.0
+version: "0.1.0"
+date-released: "2026-05-21"

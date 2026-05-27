@@ -1,0 +1,2 @@
+# Pandoc intermediate output — regenerable via `make html`.
+build/
