@@ -16,7 +16,7 @@
 
 | Surface | Link | Notes |
 |---|---|---|
-| **Web** (Recommended) | [Live HTML on GitHub Pages](https://gerasimos.github.io/knowledge-operations/) | Sidebar TOC, inline figures, anchored cross-references |
+| **Web** (Recommended) | [Live HTML on GitHub Pages](https://gerasimos.github.io/knowledge-operations-kas/) | Sidebar TOC, inline figures, anchored cross-references |
 | **Archived snapshot** | [Zenodo deposit](https://doi.org/10.5281/zenodo.20083456) | Immutable version-pinned snapshot for citation |
 
 ## How to cite
@@ -33,7 +33,7 @@ If you reference this work, please cite the Zenodo archival deposit (the DOI), n
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.20083456},
   url          = {https://doi.org/10.5281/zenodo.20083456},
-  note         = {Living document; see \url{https://github.com/gerasimos/knowledge-operations} for the latest version.},
+  note         = {Living document; see \url{https://github.com/gerasimos/knowledge-operations-kas} for the latest version.},
   orcid        = {https://orcid.org/0009-0003-7817-5791}
 }
 ```

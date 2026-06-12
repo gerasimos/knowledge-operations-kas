@@ -15,7 +15,7 @@ identifiers:
     value: 10.5281/zenodo.20083456
     description: "Concept DOI — always resolves to the latest archived version."
 url: "https://doi.org/10.5281/zenodo.20083456"
-repository-code: "https://github.com/gerasimos/knowledge-operations"
+repository-code: "https://github.com/gerasimos/knowledge-operations-kas"
 abstract: >-
   Two AI systems can both be called "RAG" while performing fundamentally
   different kinds of knowledge work; conversely, two systems can use different

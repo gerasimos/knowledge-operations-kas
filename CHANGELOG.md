@@ -36,5 +36,5 @@ v0.1.0 is being populated into the public GitHub repository in incremental commi
 
 Rollout log (most recent first):
 
-- 2026-05-27 — `assets/whitepaper.css` added so the GitHub Pages render at <https://gerasimos.github.io/knowledge-operations/> displays with its intended typography and sidebar TOC layout. (The initial commit shipped `index.html` referencing this CSS file but omitted the file itself.)
+- 2026-05-27 — `assets/whitepaper.css` added so the GitHub Pages render at <https://gerasimos.github.io/knowledge-operations-kas/> displays with its intended typography and sidebar TOC layout. (The initial commit shipped `index.html` referencing this CSS file but omitted the file itself.)
 - 2026-05-27 — Initial commit: `LICENSE`, `CITATION.cff`, `README.md`, `index.html`, `.gitignore`.
