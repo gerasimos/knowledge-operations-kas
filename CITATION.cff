@@ -12,9 +12,9 @@ authors:
     orcid: "https://orcid.org/0009-0003-7817-5791"    
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.20083456
+    value: 10.5281/zenodo.20083455
     description: "Concept DOI — always resolves to the latest archived version."
-url: "https://doi.org/10.5281/zenodo.20083456"
+url: "https://doi.org/10.5281/zenodo.20083455"
 repository-code: "https://github.com/gerasimos/knowledge-operations-kas"
 abstract: >-
   Two AI systems can both be called "RAG" while performing fundamentally
@@ -25,7 +25,7 @@ abstract: >-
   systems based on the knowledge operations they perform reliably, rather than
   on the data formats, stores, or orchestration patterns they use. The model
   profiles systems by knowledge operations (retrieve, scope, interpret,
-  combine, compute, traverse, orchestrate, govern, evaluate), introducing
+  combine, compute, traverse, plan-and-act, govern, evaluate), introducing
   seven operation archetypes (K0–K6), a governance scale (G0–G5), and an
   evaluation discipline applied across every operation. The result is a
   multi-dimensional capability profile rather than a single maturity level,
@@ -45,5 +45,5 @@ keywords:
   - cognitive search
   - enterprise AI
 license: CC-BY-4.0
-version: "0.1.0"
-date-released: "2026-05-21"
+version: "0.2.0"
+date-released: "2026-06-16"

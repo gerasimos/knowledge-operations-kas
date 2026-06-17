@@ -9,7 +9,16 @@ This is a living document; versions increment when content changes meaningfully.
 - **Minor** (`0.x.0`) — new sections, expanded examples, additional citations, new appendices, new figures.
 - **Major** (`x.0.0`) — thesis revisions, framework restructuring, removal or renaming of named concepts (K0–K6, G0–G5).
 
-Each release is archived to Zenodo with its own version-DOI; the concept-DOI [10.5281/zenodo.20083456](https://doi.org/10.5281/zenodo.20083456) always resolves to the latest archived version.
+Each release is archived to Zenodo with its own version-DOI; the concept-DOI [10.5281/zenodo.20083455](https://doi.org/10.5281/zenodo.20083455) always resolves to the latest archived version.
+
+---
+
+## [Unreleased] — 2026-06-17
+
+### Fixed
+
+- Citation metadata now cites the concept DOI `10.5281/zenodo.20083455` (all-versions; resolves to the latest) across the banner, `CITATION.cff`, and this changelog. The v0.1.0 deposit's version-DOI `10.5281/zenodo.20083456` is retained only where that specific release is referenced.
+- Stripped build/template and figure-construction comments from the published `index.html` (they exposed the pandoc pipeline and SVG internals in page source).
 
 ---
 

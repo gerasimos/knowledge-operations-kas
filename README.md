@@ -3,25 +3,25 @@
 > Classifying AI systems by the knowledge operations they perform, not the data formats they use.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20083456-blue.svg)](https://doi.org/10.5281/zenodo.20083456)
-[![Version](https://img.shields.io/badge/version-v0.1.0-green.svg)](https://github.com/gerasimos/knowledge-operations/releases/tag/v0.1.0)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20083455-blue.svg)](https://doi.org/10.5281/zenodo.20083455)
+[![Version](https://img.shields.io/badge/version-v0.2.0-green.svg)](https://github.com/gerasimos/knowledge-operations-kas/releases/tag/v0.2.0)
 
 ## TL;DR
 
 - A maturity ladder that goes "chunks → metadata → graphs → agents" is grading systems by what they *store*, not by what they *can do*. Buyers are evaluating along the wrong axis.
 - Two systems on the same rung can satisfy completely different workloads, and a system on a "lower" rung can outperform a system on a "higher" one when the workload doesn't need the operations the higher rung adds.
-- The fix is to grade by **knowledge operations** — the verbs a system performs reliably (retrieve, scope, interpret, combine, compute, traverse, orchestrate) — and to evaluate fit per workload, not per industry or per vendor stack.
+- The fix is to grade by **knowledge operations** — the verbs a system performs reliably (retrieve, scope, interpret, combine, compute, traverse, plan-and-act) — and to evaluate fit per workload, not per industry or per vendor stack.
 
 ## Read the paper
 
 | Surface | Link | Notes |
 |---|---|---|
 | **Web** (Recommended) | [Live HTML on GitHub Pages](https://gerasimos.github.io/knowledge-operations-kas/) | Sidebar TOC, inline figures, anchored cross-references |
-| **Archived snapshot** | [Zenodo deposit](https://doi.org/10.5281/zenodo.20083456) | Immutable version-pinned snapshot for citation |
+| **Archived snapshot** | [Zenodo deposit](https://doi.org/10.5281/zenodo.20083455) | Concept DOI (all versions) — resolves to the latest archived snapshot; use for citation |
 
 ## How to cite
 
-If you reference this work, please cite the Zenodo archival deposit (the DOI), not the GitHub URL. The Zenodo deposit pins to a specific version of the paper and links back here for the latest version.
+If you reference this work, please cite the Zenodo concept DOI (below), not the GitHub URL. The concept DOI always resolves to the latest archived version; Zenodo also mints a version-specific DOI per release if you need to pin one.
 
 ### BibTeX
 
@@ -31,8 +31,8 @@ If you reference this work, please cite the Zenodo archival deposit (the DOI), n
   author       = {Xydas, Gerasimos},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20083456},
-  url          = {https://doi.org/10.5281/zenodo.20083456},
+  doi          = {10.5281/zenodo.20083455},
+  url          = {https://doi.org/10.5281/zenodo.20083455},
   note         = {Living document; see \url{https://github.com/gerasimos/knowledge-operations-kas} for the latest version.},
   orcid        = {https://orcid.org/0009-0003-7817-5791}
 }
@@ -40,7 +40,7 @@ If you reference this work, please cite the Zenodo archival deposit (the DOI), n
 
 ### Human-readable
 
-> Xydas, Gerasimos (2026). *Knowledge Operations: A Capability Model for AI Systems*. Zenodo. https://doi.org/10.5281/zenodo.20083456
+> Xydas, Gerasimos (2026). *Knowledge Operations: A Capability Model for AI Systems*. Zenodo. https://doi.org/10.5281/zenodo.20083455
 
 GitHub's "Cite this repository" button (top-right of the repo page) reads `CITATION.cff` and surfaces both forms automatically.
 
